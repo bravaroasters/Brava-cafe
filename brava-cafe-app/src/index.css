@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background-color: #fff6f1;
+  color: #2a2a2a;
+}
+
+.tracking-label {
+  letter-spacing: 0.14em;
+}
